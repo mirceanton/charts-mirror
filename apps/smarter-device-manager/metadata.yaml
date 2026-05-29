@@ -1,6 +1,0 @@
----
-artifactName: smarter-device-manager
-source:
-  helm:
-    registry: https://smarter-project.github.io/smarter-device-manager
-    version: 0.0.10

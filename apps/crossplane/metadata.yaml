@@ -1,6 +1,0 @@
----
-artifactName: crossplane
-source:
-  helm:
-    registry: https://charts.crossplane.io/stable
-    version: 2.2.1

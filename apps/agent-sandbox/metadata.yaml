@@ -1,7 +1,0 @@
----
-artifactName: agent-sandbox
-source:
-  git:
-    repository: https://github.com/kubernetes-sigs/agent-sandbox
-    path: ./helm
-    tag: v0.4.6

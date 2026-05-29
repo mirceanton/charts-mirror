@@ -1,6 +1,0 @@
----
-artifactName: keda
-source:
-  helm:
-    registry: https://kedacore.github.io/charts
-    version: 2.19.0

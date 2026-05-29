@@ -1,6 +1,0 @@
----
-artifactName: goldilocks
-source:
-  helm:
-    registry: https://charts.fairwinds.com/stable
-    version: 10.3.0

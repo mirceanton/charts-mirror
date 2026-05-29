@@ -1,6 +1,0 @@
----
-artifactName: mongodb-kubernetes
-source:
-  helm:
-    registry: https://mongodb.github.io/helm-charts
-    version: 1.8.1

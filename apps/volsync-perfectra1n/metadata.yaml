@@ -1,7 +1,0 @@
----
-artifactName: volsync-perfectra1n
-source:
-  helm:
-    registry: https://perfectra1n.github.io/volsync/charts/
-    version: 0.18.5
-    chart: volsync

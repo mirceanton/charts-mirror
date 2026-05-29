@@ -1,6 +1,0 @@
----
-artifactName: volsync
-source:
-  helm:
-    registry: https://backube.github.io/helm-charts/
-    version: 0.15.0
