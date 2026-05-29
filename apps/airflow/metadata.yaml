@@ -1,0 +1,7 @@
+---
+artifactName: airflow
+source:
+  helm:
+    registry: https://airflow.apache.org/
+    version: 1.21.0
+    chart: airflow
