@@ -1,0 +1,7 @@
+---
+artifactName: openmetadata
+source:
+  helm:
+    registry: https://helm.open-metadata.org/
+    version: 1.12.9
+    chart: openmetadata
