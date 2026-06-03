@@ -1,0 +1,7 @@
+---
+artifactName: memgraph
+source:
+  helm:
+    registry: https://memgraph.github.io/helm-charts
+    version: "1.0.2"
+    chart: memgraph
