@@ -3,5 +3,5 @@ artifactName: airflow
 source:
   helm:
     registry: https://airflow.apache.org/
-    version: 1.21.0
+    version: 1.22.0
     chart: airflow
