@@ -3,5 +3,5 @@ artifactName: openmetadata
 source:
   helm:
     registry: https://helm.open-metadata.org/
-    version: 1.12.10
+    version: 1.13.0
     chart: openmetadata
