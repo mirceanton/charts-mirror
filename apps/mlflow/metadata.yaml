@@ -3,5 +3,5 @@ artifactName: mlflow
 source:
   helm:
     registry: https://community-charts.github.io/helm-charts
-    version: 1.9.0
+    version: 1.11.2
     chart: mlflow
