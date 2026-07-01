@@ -1,7 +1,7 @@
 [tools]
 cosign = "3.0.6"
 helm = "4.2.0"
-jq = "1.8.1"
+jq = "1.8.2"
 lefthook = "2.1.9"
 shellcheck = "0.11.0"
 yamlfmt = "0.21.0"
