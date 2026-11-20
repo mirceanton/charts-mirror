@@ -1,0 +1,7 @@
+---
+artifactName: temporal
+source:
+  helm:
+    registry: https://go.temporal.io/helm-charts
+    version: 1.8.0
+    chart: temporal
